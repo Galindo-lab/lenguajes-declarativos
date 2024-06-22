@@ -1,15 +1,26 @@
 # Parte 1: Programación Funcional
 
+
 ## Historia de la Programación Funcional
 
+
 ## Fundamentos
+
 ### Funciones puras
+
 ### Evaluación perezosa
+
 ### Inmutabilidad
+
 ### Composición de funciones
+
 ### Funciones de orden superior
+
 ### Funciones lambda
+
 ### Acumuladores
+
+
 ### Tipos de recursión
 #### Generativa
 #### Estructural
@@ -100,32 +111,51 @@
 #### Inductivas
 #### Abductivas
 
+
+
+
 ## Ejemplos en Prolog
+
+
 ### Introducción a Prolog
 #### Sintaxis
 #### Declaración de hechos y reglas
 #### Unificación
+
+
 ### Ejercicios prácticos
 #### Árbol genealógico
+
+
 #### Manipulación de listas
-##### Verificar si un elemento está en una lista
-##### Longitud de una lista
-##### Concatenar dos listas
-##### Invertir una lista
-##### Duplicar elementos de una lista
-##### Quitar el último elemento de una lista
-##### Quitar los dos últimos elementos de una lista
-##### Borrar un elemento de una lista
-##### Unión e intersección de listas
+##### [[Verificar si un elemento está en una lista]]
+##### [[Longitud de una lista]] 
+##### [[Concatenar dos listas]]
+##### [[Invertir una lista]]
+##### [[Duplicar elementos de una lista]]
+##### [[Quitar el último elemento de una lista]]
+##### [[Quitar los dos últimos elementos de una lista]]
+##### [[Borrar un elemento de una lista]]
+##### [[Unión e intersección de listas]]
+
+
+
 #### Algoritmos de ordenación
 ##### Bubble Sort
 ##### Quick Sort
 ##### Merge Sort
+
+
 #### Problemas de lógica
 ##### Torres de Hanoi
 ##### El mono y la banana
 ##### 8 reinas
 ##### Ruta de vuelos
+
+
+
+
+
 
 ---
 

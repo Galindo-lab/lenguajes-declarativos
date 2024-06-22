@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "a391fa0bee66f260",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b242e3d5093af1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec4a6f21cba1895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50582158ae6d5d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19290215ae303474",
+    "type": "split",
+    "children": [
+      {
+        "id": "08aa91c0bd15aa32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5de797739004c187",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ffc60099c7740f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a85b6928c9a31ed7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72aec9ddc5d9caec",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c43af4a952cc6f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b4ffa82a1d18e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "510e017a2ef4447a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6c968c882d8315a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "742defe35df64679",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5ec4a6f21cba1895",
+  "lastOpenFiles": [
+    "prolog/Quitar los dos últimos elementos de una lista.md",
+    "README.md",
+    "prolog/Quitar el último elemento de una lista.md",
+    "prolog/Borrar un elemento de una lista.md",
+    "prolog/Invertir una lista.md",
+    "prolog/Duplicar elementos de una lista.md",
+    "prolog/Concatenar dos listas.md",
+    "prolog/Unión e intersección de listas.md",
+    "prolog/Verificar si un elemento está en una lista.md",
+    "prolog/Longitud de una lista.md",
+    "prolog/longitud_de_una_lista.md",
+    "c",
+    "racket",
+    "haskell",
+    "prolog"
+  ]
+}
